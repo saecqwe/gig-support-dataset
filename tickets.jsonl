@@ -1,0 +1,177 @@
+{"text": "Client didn't pay after I cleaned their apartment", "label": "Payment Issue"}
+{"text": "Worker broke my $200 lamp during moving job", "label": "Job Dispute"}
+{"text": "Driver was speeding and almost crashed with my kids", "label": "Safety Concern"}
+{"text": "Can't login to book plumber for tomorrow", "label": "Account Problem"}
+{"text": "How do I rate the electrician who fixed my wiring?", "label": "Other"}
+{"text": "Paid $150 for lawn mowing but grass still long", "label": "Job Dispute"}
+{"text": "Housekeeper stole my wife's gold earrings", "label": "Job Dispute"}
+{"text": "Payment charged twice for dog walking service", "label": "Payment Issue"}
+{"text": "Carpenter showed up 3 hours late, wasted my day", "label": "Job Dispute"}
+{"text": "Tutor didn't show up for my kid's math lesson", "label": "Job Dispute"}
+{"text": "Handyman left tools and paint everywhere", "label": "Job Dispute"}
+{"text": "Forgot password after booking AC repair", "label": "Account Problem"}
+{"text": "App crashed while paying for photography session", "label": "Payment Issue"}
+{"text": "Babysitter smoked inside my house with baby", "label": "Safety Concern"}
+{"text": "Personal trainer cancelled 5 sessions in a row", "label": "Job Dispute"}
+{"text": "Driver took longer route, charged $40 extra", "label": "Payment Issue"}
+{"text": "Profile picture won't upload for my catering gig", "label": "Account Problem"}
+{"text": "Mechanic fixed wrong part on my car", "label": "Job Dispute"}
+{"text": "Pet groomer cut my dog's ear badly", "label": "Safety Concern"}
+{"text": "Yoga instructor was drunk during private class", "label": "Safety Concern"}
+{"text": "Stripe payment failed for interior design consult", "label": "Payment Issue"}
+{"text": "Can't find my event planner booking history", "label": "Account Problem"}
+{"text": "Painter used wrong color on my living room", "label": "Job Dispute"}
+{"text": "Delivery guy left groceries in the rain", "label": "Job Dispute"}
+{"text": "Email verification not working to reset password", "label": "Account Problem"}
+{"text": "Chef cooked with peanuts but I said allergy", "label": "Safety Concern"}
+{"text": "Maid service brought 3 people without notice", "label": "Job Dispute"}
+{"text": "Paid for 2hr cleaning got only 45 minutes", "label": "Payment Issue"}
+{"text": "App says 'service completed' but plumber left", "label": "Job Dispute"}
+{"text": "How to dispute charge for bad hair styling?", "label": "Payment Issue"}
+{"text": "Locksmith damaged my door installing new lock", "label": "Job Dispute"}
+{"text": "Fitness coach gave wrong workout, hurt my back", "label": "Safety Concern"}
+{"text": "Can't add credit card for virtual assistant", "label": "Account Problem"}
+{"text": "Driver had screaming match with other car", "label": "Safety Concern"}
+{"text": "Booked 2 cleaners, only 1 showed up", "label": "Job Dispute"}
+{"text": "Payment stuck 'processing' for 3 days", "label": "Payment Issue"}
+{"text": "Where's my receipt for dog training session?", "label": "Other"}
+{"text": "Nanny fell asleep with my 2yo on couch", "label": "Safety Concern"}
+{"text": "Electrician left wires exposed in kitchen", "label": "Safety Concern"}
+{"text": "App won't let me tip the amazing gardener", "label": "Account Problem"}
+{"text": "Translator didn't show for business meeting", "label": "Job Dispute"}
+{"text": "Charged $80 for 30min graphic design", "label": "Payment Issue"}
+{"text": "Pool cleaner used wrong chemicals, skin rash", "label": "Safety Concern"}
+{"text": "How do I leave review for 5-star massage?", "label": "Other"}
+{"text": "Videographer filmed wrong event location", "label": "Job Dispute"}
+{"text": "Payment refunded but still shows in history", "label": "Account Problem"}
+{"text": "Driver asked for cash tip after card pay", "label": "Payment Issue"}
+{"text": "Personal shopper bought wrong dress size", "label": "Job Dispute"}
+{"text": "App notifications not working for bookings", "label": "Account Problem"}
+{"text": "Bartender served minors at my party", "label": "Safety Concern"}
+{"text": "Landscaper planted wrong flowers I ordered", "label": "Job Dispute"}
+{"text": "Can't cancel DJ booking 2hrs before event", "label": "Account Problem"}
+{"text": "Hair stylist used expired color, scalp burns", "label": "Safety Concern"}
+{"text": "Paid upfront for tutoring, no response", "label": "Payment Issue"}
+{"text": "App says I'm offline but I'm connected", "label": "Account Problem"}
+{"text": "Cleaner used my towels without asking", "label": "Job Dispute"}
+{"text": "Driver hit pothole, spilled my coffee", "label": "Job Dispute"}
+{"text": "How to book same plumber again next month?", "label": "Other"}
+{"text": "Mechanic overcharged $200 for oil change", "label": "Payment Issue"}
+{"text": "Babysitter gave candy to my diabetic kid", "label": "Safety Concern"}
+{"text": "Virtual assistant sent wrong email draft", "label": "Job Dispute"}
+{"text": "Payment method expired during checkout", "label": "Payment Issue"}
+{"text": "Can't see my completed photography gigs", "label": "Account Problem"}
+{"text": "Dog walker let my pup chase cars", "label": "Safety Concern"}
+{"text": "Caterer delivered cold food to wedding", "label": "Job Dispute"}
+{"text": "App crashed submitting support ticket", "label": "Account Problem"}
+{"text": "Trainer pushed me too hard, knee injury", "label": "Safety Concern"}
+{"text": "Paid $120 for makeup, lasted 2hrs", "label": "Payment Issue"}
+{"text": "How do I become a service provider?", "label": "Other"}
+{"text": "Handyman drilled hole in wrong wall", "label": "Job Dispute"}
+{"text": "Driver played loud music with baby seat", "label": "Safety Concern"}
+{"text": "Can't upload ID for background check", "label": "Account Problem"}
+{"text": "Florist delivered dead flowers to funeral", "label": "Job Dispute"}
+{"text": "Payment shows 'failed' but money gone", "label": "Payment Issue"}
+{"text": "Yoga teacher twisted my neck wrong", "label": "Safety Concern"}
+{"text": "App won't load map for driver pickup", "label": "Account Problem"}
+{"text": "Cleaner found but ignored my lost ring", "label": "Job Dispute"}
+{"text": "Booked 3hr service, charged for 5hr", "label": "Payment Issue"}
+{"text": "Where can I see my earnings history?", "label": "Other"}
+{"text": "Pet sitter forgot to feed my fish", "label": "Job Dispute"}
+{"text": "Driver refused short trip, rude", "label": "Job Dispute"}
+{"text": "Can't change phone number in profile", "label": "Account Problem"}
+{"text": "Mechanic left oil stains on driveway", "label": "Job Dispute"}
+{"text": "Payment for nail tech went to wrong acct", "label": "Payment Issue"}
+{"text": "How to report fake service listing?", "label": "Other"}
+{"text": "Biker courier crashed with my packages", "label": "Safety Concern"}
+{"text": "App deleted my upcoming bookings", "label": "Account Problem"}
+{"text": "Maid sprayed bleach on wood furniture", "label": "Job Dispute"}
+{"text": "Tutor taught wrong math curriculum", "label": "Job Dispute"}
+{"text": "Driver had dog in car, I'm allergic", "label": "Safety Concern"}
+{"text": "Can't get refund code for cancelled gig", "label": "Payment Issue"}
+{"text": "Personal chef used shellfish, allergy", "label": "Safety Concern"}
+{"text": "App says 'no providers nearby' but I see them", "label": "Account Problem"}
+{"text": "Landscaper mowed over my sprinkler", "label": "Job Dispute"}
+{"text": "Payment split wrong between 2 workers", "label": "Payment Issue"}
+{"text": "How do I pause my provider account?", "label": "Other"}
+{"text": "Babysitter let stranger into my home", "label": "Safety Concern"}
+{"text": "Electrician tripped breaker, no power", "label": "Job Dispute"}
+{"text": "Can't access chat with last plumber", "label": "Account Problem"}
+{"text": "Videographer filmed competitor's logo", "label": "Job Dispute"}
+{"text": "Driver took my luggage to wrong hotel", "label": "Job Dispute"}
+{"text": "Payment processed but service cancelled", "label": "Payment Issue"}
+{"text": "App notifications going to old email", "label": "Account Problem"}
+{"text": "Trainer used faulty equipment, cut finger", "label": "Safety Concern"}
+{"text": "Cleaner left door unlocked when left", "label": "Safety Concern"}
+{"text": "How to bulk-book same cleaner weekly?", "label": "Other"}
+{"text": "Carpenter built shelf backwards", "label": "Job Dispute"}
+{"text": "Stripe error on $300 wedding makeup", "label": "Payment Issue"}
+{"text": "Driver speeding in school zone", "label": "Safety Concern"}
+{"text": "Can't verify email for payout", "label": "Account Problem"}
+{"text": "Pet groomer shaved wrong pattern", "label": "Job Dispute"}
+{"text": "App froze during live video consult", "label": "Account Problem"}
+{"text": "Maid used my expensive shampoo", "label": "Job Dispute"}
+{"text": "Payment for DJ showed as 'pending' week", "label": "Payment Issue"}
+{"text": "How do I see my average rating?", "label": "Other"}
+{"text": "Locksmith picked wrong lock type", "label": "Job Dispute"}
+{"text": "Driver rear-ended at red light", "label": "Safety Concern"}
+{"text": "Can't add bank for direct deposit", "label": "Account Problem"}
+{"text": "Yoga mat rental dirty with holes", "label": "Job Dispute"}
+{"text": "Chef burnt $500 steak dinner", "label": "Job Dispute"}
+{"text": "App won't let me select date range", "label": "Account Problem"}
+{"text": "Babysitter lost my kid's favorite toy", "label": "Job Dispute"}
+{"text": "Payment refunded wrong amount", "label": "Payment Issue"}
+{"text": "How to invite friend as provider?", "label": "Other"}
+{"text": "Handyman scratched my new hardwood", "label": "Job Dispute"}
+{"text": "Driver refused service dog", "label": "Safety Concern"}
+{"text": "Can't upload service certificate", "label": "Account Problem"}
+{"text": "Tutor charged for cancelled lesson", "label": "Payment Issue"}
+{"text": "Cleaner brought child who broke vase", "label": "Safety Concern"}
+{"text": "App shows wrong provider location", "label": "Account Problem"}
+{"text": "Landscaper planted invasive species", "label": "Job Dispute"}
+{"text": "Payment split uneven for team clean", "label": "Payment Issue"}
+{"text": "How do I change service category?", "label": "Other"}
+{"text": "Mechanic used cheap parts not OEM", "label": "Job Dispute"}
+{"text": "Driver parked blocking fire hydrant", "label": "Safety Concern"}
+{"text": "Can't see chat history with caterer", "label": "Account Problem"}
+{"text": "Personal shopper kept 20% commission", "label": "Payment Issue"}
+{"text": "App crashed uploading job photos", "label": "Account Problem"}
+{"text": "Nanny gave wrong medication dose", "label": "Safety Concern"}
+{"text": "Painter dripped on my white carpet", "label": "Job Dispute"}
+{"text": "Payment for virtual event failed", "label": "Payment Issue"}
+{"text": "How to dispute fake 5-star review?", "label": "Other"}
+{"text": "Dog trainer used shock collar", "label": "Safety Concern"}
+{"text": "Can't book same time slot twice", "label": "Account Problem"}
+{"text": "Maid service overcharged 50%", "label": "Payment Issue"}
+{"text": "Driver argued with me about route", "label": "Job Dispute"}
+{"text": "App deleted my provider profile", "label": "Account Problem"}
+{"text": "Chef ignored my vegan request", "label": "Job Dispute"}
+{"text": "Payment shows completed but no service", "label": "Payment Issue"}
+{"text": "How do I set availability calendar?", "label": "Other"}
+{"text": "Babysitter arrived 45min late", "label": "Job Dispute"}
+{"text": "Electrician wired fan backwards", "label": "Job Dispute"}
+{"text": "Can't access earnings dashboard", "label": "Account Problem"}
+{"text": "Trainer cancelled via text not app", "label": "Job Dispute"}
+{"text": "Driver left my phone in car", "label": "Job Dispute"}
+{"text": "Payment processed after I cancelled", "label": "Payment Issue"}
+{"text": "App won't load in Safari browser", "label": "Account Problem"}
+{"text": "Pet sitter overfed my diabetic cat", "label": "Safety Concern"}
+{"text": "How to add group booking discount?", "label": "Other"}
+{"text": "Locksmith lost my spare key", "label": "Job Dispute"}
+{"text": "Cleaners used my electricity 3hrs", "label": "Payment Issue"}
+{"text": "Driver swerved to avoid pothole", "label": "Safety Concern"}
+{"text": "Can't change payout schedule", "label": "Account Problem"}
+{"text": "Hair stylist cut 6 inches not 2", "label": "Job Dispute"}
+{"text": "App notifications delayed 2hrs", "label": "Account Problem"}
+{"text": "Caterer shorted 10 meals for party", "label": "Job Dispute"}
+{"text": "Payment for makeup trial pending", "label": "Payment Issue"}
+{"text": "How do I verify my business license?", "label": "Other"}
+{"text": "Yoga instructor played loud music", "label": "Job Dispute"}
+{"text": "Driver refused pickup in bad weather", "label": "Job Dispute"}
+{"text": "Can't see cancelled booking reason", "label": "Account Problem"}
+{"text": "Mechanic forgot to refill oil", "label": "Job Dispute"}
+{"text": "App crashed during video call", "label": "Account Problem"}
+{"text": "Babysitter used my Netflix account", "label": "Job Dispute"}
+{"text": "Payment split wrong 3 providers", "label": "Payment Issue"}
+{"text": "Trainer gave wrong supplement", "label": "Safety Concern"}
+{"text": "How to export my booking CSV?", "label": "Other"}
